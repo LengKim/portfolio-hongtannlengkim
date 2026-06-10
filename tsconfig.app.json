@@ -1,8 +1,13 @@
 {
   "compilerOptions": {
     "moduleResolution": "bundler",
+    "types": ["vite/client"],
+    "baseUrl": ".",
     "paths": {
-      "@/*": ["./src/*"]
-    }
+      "@/*": ["src/*"]
+    },
+    "lib": ["ES2023", "DOM", "DOM.Iterable"],
+    "skipLibCheck": true,
+    "ignoreDeprecations": "6.0"
   }
 }
