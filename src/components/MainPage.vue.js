@@ -501,14 +501,16 @@ __VLS_asFunctionalElement1(__VLS_intrinsics.h3, __VLS_intrinsics.h3)({
 /** @type {__VLS_StyleScopedClasses['p-4']} */ ;
 /** @type {__VLS_StyleScopedClasses['text-center']} */ ;
 __VLS_asFunctionalElement1(__VLS_intrinsics.ul, __VLS_intrinsics.ul)({
-    ...{ class: "md:list-disc sm:list-none pl-4 grid grid-cols-2 gap-2" },
+    ...{ class: "md:list-disc sm:list-none pl-4 grid md:grid-cols-2 sm:grid-cols-1 gap-2 sm:items-center" },
 });
 /** @type {__VLS_StyleScopedClasses['md:list-disc']} */ ;
 /** @type {__VLS_StyleScopedClasses['sm:list-none']} */ ;
 /** @type {__VLS_StyleScopedClasses['pl-4']} */ ;
 /** @type {__VLS_StyleScopedClasses['grid']} */ ;
-/** @type {__VLS_StyleScopedClasses['grid-cols-2']} */ ;
+/** @type {__VLS_StyleScopedClasses['md:grid-cols-2']} */ ;
+/** @type {__VLS_StyleScopedClasses['sm:grid-cols-1']} */ ;
 /** @type {__VLS_StyleScopedClasses['gap-2']} */ ;
+/** @type {__VLS_StyleScopedClasses['sm:items-center']} */ ;
 __VLS_asFunctionalElement1(__VLS_intrinsics.li, __VLS_intrinsics.li)({});
 __VLS_asFunctionalElement1(__VLS_intrinsics.p, __VLS_intrinsics.p)({
     ...{ class: "font-bold" },

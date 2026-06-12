@@ -96,7 +96,7 @@ const menuItems = [
             <p>MySQL</p>
             <p>PostgreSQL</p>
             <p>Postman</p>
-            <p>GitLab</p>
+            <p>GitLab/GitHub</p>
             <p>Figmar</p>
           </div>
           <div class="my-portfolio-section-Education" id="education">
@@ -121,13 +121,13 @@ const menuItems = [
       <h3 class="text-xl md:text-2xl font-bold md:p-6 p-4 text-center">
         My Work
       </h3>
-      <p class="text-justify md:p-0 pr-4 pl-4">Organize webpages of Ministry of Tourism Cambodia <a href="https://www.tourism.gov.kh" class=" text-gray-950 font-bold" target="_blank" rel="noopener noreferrer">tourism.gov.kh</a>, Data management system for Ministry of Tourism Cambodia <a href="https://license-management.digitali.team" class=" text-gray-950 font-bold" target="_blank" rel="noopener noreferrer">license-management.digitali.team</a>, schedule management at Ministry of Inspection Cambodia <a href="https://schedule.digitali.team" class=" text-gray-950 font-bold" target="_blank" rel="noopener noreferrer">schedule.digitali.team</a>, Organize webpage of private business <a href="https://www.campitalinvestment.com" class=" text-gray-950 font-bold" target="_blank" rel="noopener noreferrer">campitalinvestment.com</a>, Small POS café (Own project), my Portfolio.</p>
+      <p class="text-justify md:p-0 pr-4 pl-4">Organize webpages of Ministry of Tourism Cambodia <a href="https://www.tourism.gov.kh" class=" text-gray-950 font-bold" target="_blank" rel="noopener noreferrer">tourism.gov.kh</a>, Data management system for Ministry of Tourism Cambodia <a href="https://license-management.digitali.team" class=" text-gray-950 font-bold" target="_blank" rel="noopener noreferrer">license-management.digitali.team</a>, schedule management at Ministry of Inspection Cambodia <a href="https://schedule.digitali.team" class=" text-gray-950 font-bold" target="_blank" rel="noopener noreferrer">schedule.digitali.team</a>, Organize webpage of private business <a href="https://www.campitalinvestment.com" class=" text-gray-950 font-bold" target="_blank" rel="noopener noreferrer">campitalinvestment.com</a> [WordPress], Small POS café (Own project) [Vue Js, Spring Boot, RESTful API, PostgreSQL], my Portfolio [Vue Js].</p>
     </div>
     <div class="my-portfolio-section-Experience text-gray-800" id="experience">
       <h3 class="text-xl md:text-2xl font-bold md:p-6 p-4 text-center">
         My Experience
       </h3>
-      <ul class="md:list-disc sm:list-none pl-4 grid grid-cols-2 gap-2">
+      <ul class="md:list-disc sm:list-none pl-4 grid md:grid-cols-2 sm:grid-cols-1 gap-2 sm:items-center">
         <li>
           <p class="font-bold">Dec 2025 - Jun 2026</p>
           <p>Internship of MIS at LOLC (Cambodia) PLC. (Core Banking System)</p>
